@@ -1,2 +1,2 @@
 # MY_CODE
-Codes collected from websites or something I have created.
+Codes collected from websites and something I have created.
